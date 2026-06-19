@@ -1,0 +1,16 @@
+{
+  "name": "backendapidevelopment",
+  "version": "1.0.0",
+  "description": "backend API development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "yasaswi vadrevu",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
